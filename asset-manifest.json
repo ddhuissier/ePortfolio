@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/ePortfolio/static/css/main.e7180b05.css",
-    "main.js": "/ePortfolio/static/js/main.9cd1f89a.js",
+    "main.css": "/ePortfolio/static/css/main.4cf3e874.css",
+    "main.js": "/ePortfolio/static/js/main.a6523a87.js",
     "static/js/787.ea5dfd6a.chunk.js": "/ePortfolio/static/js/787.ea5dfd6a.chunk.js",
-    "static/media/bg.jfif": "/ePortfolio/static/media/bg.b530a6921354cffaf05e.jfif",
-    "static/media/logo.png": "/ePortfolio/static/media/logo.a2edf7537c5c758ee071.png",
+    "static/media/profil2.png": "/ePortfolio/static/media/profil2.7b6c2c97ef10baf110ed.png",
+    "static/media/bg-davy.png": "/ePortfolio/static/media/bg-davy.bf094b34f63150346912.png",
+    "static/media/HCL.jpg": "/ePortfolio/static/media/HCL.97bc2dba95425ab6eb5c.jpg",
+    "static/media/Carrefour.jpg": "/ePortfolio/static/media/Carrefour.2ca3ba5e2f7c363ef8e1.jpg",
+    "static/media/logo_small.png": "/ePortfolio/static/media/logo_small.a3ea94c9a6c792baf8fe.png",
+    "static/media/neuchatel.jpg": "/ePortfolio/static/media/neuchatel.014e203a3048c74342b3.jpg",
+    "static/media/slick.svg": "/ePortfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ePortfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ePortfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ePortfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/ePortfolio/index.html",
     "static/media/getFetch.cjs": "/ePortfolio/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.e7180b05.css.map": "/ePortfolio/static/css/main.e7180b05.css.map",
-    "main.9cd1f89a.js.map": "/ePortfolio/static/js/main.9cd1f89a.js.map",
+    "main.4cf3e874.css.map": "/ePortfolio/static/css/main.4cf3e874.css.map",
+    "main.a6523a87.js.map": "/ePortfolio/static/js/main.a6523a87.js.map",
     "787.ea5dfd6a.chunk.js.map": "/ePortfolio/static/js/787.ea5dfd6a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7180b05.css",
-    "static/js/main.9cd1f89a.js"
+    "static/css/main.4cf3e874.css",
+    "static/js/main.a6523a87.js"
   ]
 }
