@@ -5,5 +5,53 @@
 .container-home{
   width: 100%;
   height: auto;
-  background-image: url('../public/images/bg.jfif');
+  background-color: #0F172A;
+  /* background-image: url('./assets/images/bg.jpg');  */
+  /* background-image: url('../public/images/bg.jfif'); */
+}
+.panel-photo{
+width : 9vw;
+height : auto;
+max-width : 200px;
+max-height : 150px;
+border-radius: 50%;
+}
+.scrollToTop {
+  position:fixed;
+  bottom:10px;
+  right:10px;
+}
+.back-to-top {
+  height: 100px;
+  width: 100px;
+  background: #3730a3;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  cursor: pointer;
+}
+.img_glow {
+  box-shadow: 0 0 55px rgb(93, 62, 230)
+}
+
+.glow {
+  transition: all 0.3s ease-in-out;
+}
+.glow:hover {
+  box-shadow: 0 0 25px rgb(93, 62, 230);
+}
+
+
+.neno-button {
+  transition: all 0.3s ease-in-out;
+}
+.neno-button:hover {
+  box-shadow: 0 0 15px rgb(93, 62, 230);
+}
+.b_glow {
+  box-shadow: 0 0 15px rgb(93, 62, 230);
 }

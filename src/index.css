@@ -9,9 +9,34 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+  overflow-y: auto;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.skill-card-contain{
+
+  text-align: center;
+  justify-items: center;
+  height:300px;
+  width: 50vw;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.45702030812324934) 35%, rgba(0,212,255,1) 100%);
+  border: solid 2px white;
+  border-radius: 50px;
+}
+
+.panel-infos{
+
+  text-align: center;
+  justify-items: center;
+  height:300px;
+  width: 50vw;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.45702030812324934) 35%, rgba(0,212,255,1) 100%);
+  border: solid 2px white;
+  border-radius: 50px;
 }

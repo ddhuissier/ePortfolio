@@ -1,4 +1,14 @@
 {
+  "nav-home": "Accueil",
+  "welcome-title-part1": "Bienvenue sur",
+  "welcome-title-part2": "Mon Site",
+  "home-description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia praesentium autem itaque fugiat, dignissimos pariatur ducimus voluptate, iure cupiditate nihil molestias magnam minima temporibus  tempora corporis. Illo quaerat enim porro.",
   "title": "Bienvenue React and react-i18next",
-  "function": "Tech passionné"
+  "function": "Tech passionné",
+  "customers-title": "Clients",
+  "service-title": "Services",
+  "about-title": "A propos",
+  "about-laius": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia praesentium autem itaque fugiat, dignissimos pariatur ducimus voluptate, iure cupiditate nihil molestias magnam minima temporibus  tempora corporis. Illo quaerat enim porro.",
+  "contact-title": "Contact",
+  "follow-me": "Suivez moi"
 }

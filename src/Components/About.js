@@ -1,12 +1,31 @@
 import React from "react";
+import profile from "../assets/images/profil2.png";
+import { useTranslation } from "react-i18next";
 
 export default function About() {
+  const { t } = useTranslation();
   return (
-    <section className="bg-white rounded-lg shadow-lg p-8 mb-6">
-      <h2 className="text-2xl font-semibold mb-4">À propos de moi</h2>
-      <p className="text-gray-700">
-        Une brève description de vous et de vos compétences.
-      </p>
-    </section>
+    <div
+      id="About"
+      className="lg:px-56 px-10 lg:py-0 py-20 text-center gap-5 lg:text-start flex lg:flex-row flex-col justify-between lg:gap-28 items-center"
+    >
+      <img
+        data-aos="fade-down"
+        src={profile}
+        width={290}
+        height={290}
+        className="rounded border-2 p-1 border-indigo-500 img_glow"
+        alt=""
+      />
+      <div className=" h-full lg:py-40 flex flex-col justify-center lg:items-start items-center text-white">
+        <h1
+          data-aos="fade-right"
+          className="text-[52px] font-semibold mb-8 leading-normal text-indigo-500 uppercase"
+        >
+          {t("about-title")}
+        </h1>
+        <p data-aos="fade-left">{t("about-laius")}</p>
+      </div>
+    </div>
   );
 }
