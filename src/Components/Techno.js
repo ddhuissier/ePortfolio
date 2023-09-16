@@ -35,7 +35,7 @@ const Techno = () => {
           data-aos="fade-up"
           className="text-[26px] flex items-center justify-center font-semibold text-indigo-800 rounded-ss-3xl rounded-br-3xl h-36 w-44 border-2 border-indigo-800 b_glow"
         >
-          ANGULAR
+          SOFTWARE DEVELOPER
         </h2>
         <h2
           data-aos="fade-up"
@@ -53,7 +53,7 @@ const Techno = () => {
           data-aos="fade-down"
           className="text-[26px] flex items-center justify-center font-semibold text-indigo-800 rounded-ss-3xl rounded-br-3xl h-36 w-44 border-2 border-indigo-800 b_glow"
         >
-          KOTLIN
+          ANGULAR
         </h2>
         <h2
           data-aos="fade-down"

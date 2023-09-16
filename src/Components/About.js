@@ -1,6 +1,7 @@
 import React from "react";
 import profile from "../assets/images/profil2.png";
 import { useTranslation } from "react-i18next";
+import Modal from "./Modal";
 
 export default function About() {
   const { t } = useTranslation();
@@ -25,6 +26,13 @@ export default function About() {
           {t("about-title")}
         </h1>
         <p data-aos="fade-left">{t("about-laius")}</p>
+        <div className="flex mt-8 gap-2">
+          <div className="flex items-center justify-center">
+            <div className="flex space-x-2">
+              <Modal />
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );

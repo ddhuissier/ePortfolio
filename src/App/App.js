@@ -56,7 +56,7 @@ function App() {
           <Reference />
           <Footer />
           <div className="back-to-top">
-            <BsArrowUpCircleFill className="bg-indigo-800" size={50} />
+            <BsArrowUpCircleFill className="bg-indigo-800" size={40} />
           </div>
         </div>
       )}

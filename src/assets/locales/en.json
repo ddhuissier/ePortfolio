@@ -1,6 +1,6 @@
 {
   "nav-home": "Home",
-  "welcome-title-part1": "Welcome To",
+  "welcome-title-part1": "Welcome To ",
   "welcome-title-part2": "My Website",
   "home-description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia praesentium autem itaque fugiat, dignissimos pariatur ducimus voluptate, iure cupiditate nihil molestias magnam minima temporibus  tempora corporis. Illo quaerat enim porro.",
   "function": "Software Craftsmanship",
@@ -9,5 +9,6 @@
   "about-title": "About me",
   "about-laius": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia praesentium autem itaque fugiat, dignissimos pariatur ducimus voluptate, iure cupiditate nihil molestias magnam minima temporibus  tempora corporis. Illo quaerat enim porro.",
   "contact-title": "Let's connect",
-  "follow-me": "Follow Me"
+  "follow-me": "Follow Me",
+  "modal-title": "EXPERIENCES"
 }

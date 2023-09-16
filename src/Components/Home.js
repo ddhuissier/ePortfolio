@@ -57,8 +57,8 @@ const Home = () => {
       <img
         data-aos="fade-up"
         src={profile}
-        width={290}
-        height={290}
+        width={200}
+        height={200}
         className="rounded-full border-2 p-1 border-indigo-500 img_glow"
         alt=""
       />

@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import img1 from "../assets/images/customers/AIRVANCE_LOG-RVB-web-4.png";
+import img1 from "../assets/images/customers/AIRVANCE_LOG-RVB-web-3.png";
 import img2 from "../assets/images/customers/Carrefour.jpg";
 import img3 from "../assets/images/customers/neuchatel.jpg";
 import img4 from "../assets/images/customers/HCL.jpg";
@@ -27,7 +27,7 @@ const Reference = () => {
           data-aos="fade-up"
           height={250}
           width={250}
-          className="flex items-center justify-center rounded-3xl p-1 border-2 border-indigo-800 b_glow"
+          className="flex items-center justify-center rounded-3xl p-1 border-2 border-indigo-800 bg-white b_glow"
           src={img1}
           alt=""
         />
